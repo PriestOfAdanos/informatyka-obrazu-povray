@@ -1,4 +1,7 @@
-# Wstęp do Pov-Ray
+# Projekt POV-RAY 2023, RMS, Informatyka obrazu
+### Paweł Habrzyk
+
+## Wstęp do Pov-Ray
 
 Pov-Ray (Persistence of Vision Raytracer) to narzędzie do renderowania grafiki 3D, które używa języka opisu sceny do generowania obrazów z opisów 3D. W tym dokumentacji skupimy się na prostym przykładzie sceny Pov-Ray.
 
@@ -89,3 +92,9 @@ plane {
   }
 }
 ```
+
+## Wyrenderowana scena
+
+![Alt Text](scene.png)
+
+
